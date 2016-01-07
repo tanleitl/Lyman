@@ -31,10 +31,6 @@ AT&T
 
 
 Here is an example of AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
     
     <div class="sample_footer">
         &copy; 2004 Foo Corporation
