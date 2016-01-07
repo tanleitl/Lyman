@@ -35,7 +35,7 @@ Here is an example of AppleScript:
     tell application "Foo"
         beep
     end tell
-    
+Here is an example of AppleScript2:    
     <div class="sample_footer">
         &copy; 2004 Foo Corporation
     </div>
