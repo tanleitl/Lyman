@@ -19,18 +19,6 @@ AT&T
 ##这是二级标题
 
 ###### 这是六级标题
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-    mi posuere lectus.
+这是一个 [an example](http://example.com/ "Title") 行内链接。
 
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-    sit amet velit.
-
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-
-Here is an example of AppleScript:
-    <div class="sample_footer">
-        &copy; 2004 Foo Corporation
-    </div>
+[这个链接](http://example.net/) 没有title属性。
