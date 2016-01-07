@@ -28,3 +28,10 @@ AT&T
     sit amet velit.
 
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
